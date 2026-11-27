@@ -1,12 +1,12 @@
 {
  "aprovada": true,
- "sincronizadoEm": "2026-11-26",
- "conferidoEm": "2026-11-26T19:03:54.762Z",
- "versao": "V0073",
- "dataBase": "2026-11-09",
- "release": "1.7.2",
- "commit": "def97056b799",
- "commitData": "2026-11-25",
+ "sincronizadoEm": "2026-11-27",
+ "conferidoEm": "2026-11-27T19:00:50.532Z",
+ "versao": "V0074",
+ "dataBase": "2026-11-26",
+ "release": "1.7.3",
+ "commit": "0d4b073da96d",
+ "commitData": "2026-11-26",
  "classificacoes": 173,
  "testes": {
   "casos": 18,
@@ -42,5 +42,5 @@
    "fim": "2026-12-31"
   }
  ],
- "emUso": "V0073"
+ "emUso": "V0074"
 }
